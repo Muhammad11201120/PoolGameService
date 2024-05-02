@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Programing\\c#\\PoolGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|d:\\programing\\c#\\poolgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|d:\\programing\\c#\\poolgame\\ctrpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|solutionrelative:ctrpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|D:\\Programing\\c#\\PoolGame\\ctrpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|solutionrelative:ctrpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|d:\\programing\\c#\\poolgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|D:\\Programing\\c#\\PoolGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|d:\\programing\\c#\\poolgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789E264A-50E5-4C4F-A9C1-7B6EBAA63004}|PoolGame.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +38,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\PoolGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Programing\\c#\\PoolGame\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAD4v4MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:08:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\PoolGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programing\\c#\\PoolGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vxgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:08:34.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ctrPool.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\PoolGame\\ctrPool.cs",
+              "RelativeDocumentMoniker": "ctrPool.cs",
+              "ToolTip": "D:\\Programing\\c#\\PoolGame\\ctrPool.cs",
+              "RelativeToolTip": "ctrPool.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:31:57.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrPool.cs [Design]",
+              "DocumentMoniker": "D:\\Programing\\c#\\PoolGame\\ctrPool.cs",
+              "RelativeDocumentMoniker": "ctrPool.cs",
+              "ToolTip": "D:\\Programing\\c#\\PoolGame\\ctrPool.cs [Design]",
+              "RelativeToolTip": "ctrPool.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:18:32.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Programing\\c#\\PoolGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

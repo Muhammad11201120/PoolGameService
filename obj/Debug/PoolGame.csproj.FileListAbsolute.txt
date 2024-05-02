@@ -1,0 +1,11 @@
+D:\Programing\c#\PoolGame\bin\Debug\PoolGame.exe.config
+D:\Programing\c#\PoolGame\bin\Debug\PoolGame.exe
+D:\Programing\c#\PoolGame\bin\Debug\PoolGame.pdb
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.csproj.AssemblyReference.cache
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.ctrPool.resources
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.Form1.resources
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.Properties.Resources.resources
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.csproj.GenerateResource.cache
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.csproj.CoreCompileInputs.cache
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.exe
+D:\Programing\c#\PoolGame\obj\Debug\PoolGame.pdb

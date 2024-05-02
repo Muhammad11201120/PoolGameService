@@ -16,5 +16,16 @@ namespace PoolGame
         {
             InitializeComponent();
         }
+
+        private void ctrPool_OnTableCompleted( object sender, ctrPool.TableCompletedEventArgs e )
+        {
+            string TableResults = $"Table Title:   ( {e.TableTitle} )";
+            TableResults += "\n\nTime Consumed = " + e.TimeText;
+            TableResults += "\n\nTotal Seconds = " + e.TimeInSeconds;
+            TableResults += "\n\nHourlyRate = " + e.RatePerHour.ToString() + " $";
+            TableResults += "\n\nTotal Fees = " + e.TotalFees.ToString() + " $";
+
+            MessageBox.Show( TableResults );
+        }
     }
 }
